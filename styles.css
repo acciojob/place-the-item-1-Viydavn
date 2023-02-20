@@ -1,2 +1,17 @@
-
-/* Your CSS Code here. */
+.placeholder{
+	display:flex;
+	justify-content: space-between
+}
+.box{
+	width:50px;
+	height: 50px;
+}
+.box1{
+	background: green;
+}
+.box2{
+	background: red;
+}
+.box3{
+	background: blue;
+}
