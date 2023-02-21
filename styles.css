@@ -1,12 +1,16 @@
 .holder{
 	display:flex;
 	justify-content: space-between;
-	flex-direction: rowrap;
+	
 	
 }
 .box{
-	min-width:500px;
+
+	
+	min-width:200px;
 	height: 200px;
+	
+	
 }
 .box1{
 	background: green;
